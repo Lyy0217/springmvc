@@ -1,0 +1,16 @@
+.idea
+*/.idea
+**/.idea
+*.iml
+target
+*/target
+**/target
+.DS_Store
+**/logs/
+.settings
+.project
+.classpath
+lib.rar
+lib
+lib-1
+lib(1).rar
